@@ -4,7 +4,7 @@ const fs = require("node:fs");
 require("dotenv").config();
 let ChannelList = require("./channels.json");
 
-ChannelList = Object.values(c); // convert json values into array
+ChannelList = Object.values(ChannelList); // convert json values into array
 const channel = ChannelList[Math.floor(Math.random() * ChannelList.length)]; // run a 50 50 to see what channel to download
 
 ytDlpWrap
