@@ -28,11 +28,12 @@ TIME=script's interval (in ms)
 
 **Add some channels to the** `channels.json`
 
-````{
+```
+{
     "c1": "channel1",
     "c2": "channel12",
-    }```
-````
+}
+```
 
 _you can add more than 2 channels if you want_
 
