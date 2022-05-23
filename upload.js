@@ -9,27 +9,27 @@ const credentials = {
 const title = process.env.TITLE;
 const description = process.env.DESCRIPTION;
 const video1 = {
-  path: "./videos/ 1.mp4",
+  path: "./videos/1.mp4",
   title: title,
   description: description,
 };
 const video2 = {
-  path: "./videos/ 2.mp4",
+  path: "./videos/2.mp4",
   title: title,
   description: description,
 };
 const video3 = {
-  path: "./videos/ 3.mp4",
+  path: "./videos/3.mp4",
   title: title,
   description: description,
 };
 const video4 = {
-  path: "./videos/ 4.mp4",
+  path: "./videos/4.mp4",
   title: title,
   description: description,
 };
 const video5 = {
-  path: "./videos/ 5.mp4",
+  path: "./videos/5.mp4",
   title: title,
   description: description,
 };
