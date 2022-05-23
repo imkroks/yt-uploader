@@ -9,13 +9,13 @@ Automatically download videos and upload them on YouTube 🚀
 
 ## Guide:
 
-####Clone the repo
+**Clone the repo**  
 `git clone https://github.com/Infinit011/yt-uploader`
 
-####Install dependencies
+**Install dependencies**  
 `yarn`
 
-####Setup a .env containing these fields:
+**Setup a .env containing these fields:**
 
 ```
 EMAIL=email
@@ -36,10 +36,10 @@ TIME=script's interval (in ms)
 
 _you can add more than 2 channels if you want_
 
-####Run the script
+**Run the script**  
 `node .`
 
-####Have fun!
+**Have fun!**
 
 # Contributing
 
