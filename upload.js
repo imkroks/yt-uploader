@@ -40,7 +40,7 @@ upload(
   [video1, video2, video3, video4, video5],
   console.log("uploading")
 ).then(() => {
-  console.log;
+  console.log("uploaded");
   // delete everything right after uploading
   const directory = "./videos";
   fs.readdir(directory, (err, files) => {
