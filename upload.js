@@ -1,5 +1,6 @@
 const { upload } = require("youtube-videos-uploader");
 const fs = require("node:fs");
+const path = require("node:path");
 require("dotenv").config();
 const credentials = {
   email: process.env.EMAIL,
