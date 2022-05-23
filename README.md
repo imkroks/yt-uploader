@@ -6,6 +6,7 @@ Automatically download videos and upload them on YouTube 🚀
 
 [Yarn](https://yarnpkg.com/)
 [NodeJS](https://nodejs.org/)
+[yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ## Guide:
 
@@ -14,6 +15,9 @@ Automatically download videos and upload them on YouTube 🚀
 
 **Install dependencies**  
 `yarn`
+
+**Create a new directory named 'bin'***   
+and place the yt-dlp binary inside it   
 
 **Setup a .env containing these fields:**
 
