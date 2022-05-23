@@ -4,9 +4,9 @@ Automatically download videos and upload them on YouTube 🚀
 
 ## Requirements
 
-[Yarn](https://yarnpkg.com/)
-[NodeJS](https://nodejs.org/)
-[yt-dlp](https://github.com/yt-dlp/yt-dlp)
+[Yarn](https://yarnpkg.com/)    
+[NodeJS](https://nodejs.org/)    
+[yt-dlp](https://github.com/yt-dlp/yt-dlp)    
 
 ## Guide:
 
@@ -40,6 +40,9 @@ TIME=script's interval (in ms)
 ```
 
 _you can add more than 2 channels if you want_
+
+**Prepare your YouTube Channel**   
+Follow [this](https://github.com/fawazahmed0/youtube-uploader) guide    
 
 **Run the script**  
 `node .`
