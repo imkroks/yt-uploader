@@ -49,6 +49,12 @@ Follow [this](https://github.com/fawazahmed0/youtube-uploader) guide
 
 **Have fun!**
 
+# To-do List
+
+🟦 Make a own Puppeteer script
+🟦 Support Brand Channels
+🟦 Make a first launch
+
 # Contributing
 
 Open a pull request, it helps a lot ❤️
