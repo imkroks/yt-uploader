@@ -51,9 +51,9 @@ Follow [this](https://github.com/fawazahmed0/youtube-uploader) guide
 
 # To-do List
 
-🟦 Make a own Puppeteer script
-🟦 Support Brand Channels
-🟦 Make a first launch
+- 🟦 Make a own Puppeteer script
+- 🟦 Support Brand Channels
+- 🟦 Make a first launch script
 
 # Contributing
 
